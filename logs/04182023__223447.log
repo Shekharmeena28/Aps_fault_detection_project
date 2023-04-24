@@ -1,9 +1,0 @@
-[ 2023-04-18 22:34:49,062 ] 16 root - INFO - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Data Ingestion <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-[ 2023-04-18 22:34:49,062 ] 24 root - INFO - Exporting collection data as pandas dataframe
-[ 2023-04-18 22:34:49,062 ] 20 root - INFO - reading data from database: {database_name} and collection {collection_name}
-[ 2023-04-18 22:34:49,066 ] 22 root - INFO - Found columns: RangeIndex(start=0, stop=0, step=1)
-[ 2023-04-18 22:34:49,066 ] 26 root - INFO - Row and columns in df: (0, 0)
-[ 2023-04-18 22:34:49,066 ] 30 root - INFO - Save data in feature store
-[ 2023-04-18 22:34:49,066 ] 36 root - INFO - Create feature store folder if not available
-[ 2023-04-18 22:34:49,066 ] 40 root - INFO - Save df to feature store folder
-[ 2023-04-18 22:34:49,068 ] 45 root - INFO - split dataset into train and test set
